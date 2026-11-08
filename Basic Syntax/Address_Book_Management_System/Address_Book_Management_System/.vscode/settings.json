@@ -1,0 +1,14 @@
+{
+    // ----- 屏蔽代码中的红色/黄色波浪线（下划线） -----
+    "C_Cpp.errorSquiggles": "disabled",
+    
+    // ----- 屏蔽代码行尾“贴”着的报错文字 -----
+    "editor.inlineDiagnostics.enabled": false,
+    
+    // ----- 屏蔽行号旁边的小红点、小灯泡等装饰（终极物理屏蔽） -----
+    "problems.decorations.enabled": false,
+    
+    // ----- 屏蔽 C++ 特有的参数名/类型提示（如果有的话） -----
+    "C_Cpp.inlayHints.autoDeclarationTypes.enabled": false,
+    "C_Cpp.inlayHints.parameterNames.enabled": false
+}
